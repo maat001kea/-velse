@@ -126,7 +126,7 @@
 }
 
 #text {
-  background-color: #ffffff;
+  background-color: #060606;
 }
 
 /* Styling for formgruppe i kontaktformular */
@@ -198,13 +198,6 @@
   .h4c {
     text-align: center;
   }
-  /* .stregrod {
-      margin: auto;
-      border-style: solid;
-      border-color: #e00a4c;
-      height: 0px;
-      width: 444px;
-    } */
 
   .container {
     /* margin-left: 5%; */
@@ -219,12 +212,3 @@
     margin: auto; /* Sentrer formen horisontalt */
   }
 }
-
-/* <label for="firstname">First Name:</label>
-<input type="text" id="firstname" name="firstname" />
-
-<label for="lastname">Last Name:</label>
-<input type="text" id="lastname" name="lastname" />
-
-<label for="email">Email:</label>
-<input type="email" id="email" name="email" /> */
